@@ -10,7 +10,7 @@ Team members:
 2. Njoud Aldossari
 3. Maha Alkhelaiwei
 4. Roaa Alaneeg
-5. Jwaher Alhossain
+5. Jawaher Alhossain
 6. Rafeef AlBahkali
 
 ### Programming Languages

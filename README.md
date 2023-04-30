@@ -7,8 +7,8 @@ This was a collaborative assignment.
 
 Team members:
 1. [Reema AlAmri](https://github.com/Reemaalamri422)
-2. Njoud Aldossari
-3. Maha Alkhelaiwei
+2. Maha Alkhelaiwei
+3. Njoud Aldossari
 4. Roaa Alaneeg
 5. Jawaher Alhossain
 6. Rafeef AlBahkali

@@ -1,4 +1,4 @@
-# Cipher-System
+# Cipher System
 
 ### Description
 Ciphering system written in python to encode and decode messages using "Keyword columnar cipher" algorithm

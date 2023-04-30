@@ -17,7 +17,7 @@ Team members:
 - Python
 
 ### Installation
-Download the HTML and CSS files including the visuals folder.
+Download the Python files.
 
 ### Program Execution
 Run the code on any IDLE such as PyCharm.
